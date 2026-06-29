@@ -135,3 +135,9 @@ Exemples :
 
 diabetes = 0 → personne non diabétique.
 diabetes = 1 → personne diabétique.
+
+
+
+pour les modifications des codes
+
+docker compose restart api/prometgheus ou ...
